@@ -1,0 +1,1 @@
+var parvi = angular.module("parvi", []);

@@ -1,0 +1,21 @@
+/**
+ *
+ * Apply your custom CSS here
+ *
+*/
+
+body {	
+}
+
+a {
+}
+
+.login-page.login-light {
+    background: #eeeeee;
+}
+
+.login-page {
+    /* background: #2c2e2f; */
+    color: #fff;
+    padding-top: 10px !important;
+}
